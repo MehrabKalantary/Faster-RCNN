@@ -8,7 +8,7 @@ Building a custom faster rcnn for detecting objects
 
 
 ## Model Architecture
-![p](https://www.researchgate.net/publication/324903264/figure/fig2/AS:640145124499471@1529633899620/The-architecture-of-Faster-R-CNN.png)
+![p](The-architecture-of-Faster-R-CNN.png)
 
 
 ## Adjustments
